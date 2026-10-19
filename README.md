@@ -1,6 +1,7 @@
+
 <!-- BANNER DE CAPA DE FUNDO -->
 <p align="center">
-  <img src="copper-ridge.jpg" alt="Header Banner" width="100%" height="220" style="object-fit: cover; border-radius: 8px;">
+<img width="1200" height="429" alt="copper-ridge" src="https://github.com/user-attachments/assets/fbea5819-635a-48db-87f8-15c02e8d9d72" />
 </p>
 
 <!-- APRESENTAÇÃO -->

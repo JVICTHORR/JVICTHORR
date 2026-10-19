@@ -1,6 +1,6 @@
 <!-- BANNER DE CAPA DE FUNDO -->
 <p align="center">
-<img width="1200" height="675" alt="37d20b1c7c7dcb588ca17e0285a0457f" src="https://github.com/user-attachments/assets/b84acbfd-b337-4b2a-b18a-126e52dabf88" />
+<img width="1199" height="400" alt="f3fd2e75c54f36dec7f4919d5fbf1400" src="https://github.com/user-attachments/assets/ba1f42a1-ff0b-4474-acca-27536c93b778" />
 </p>
 
 <!-- APRESENTAÇÃO -->

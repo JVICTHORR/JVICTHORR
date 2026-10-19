@@ -1,7 +1,7 @@
 
 <!-- BANNER DE CAPA DE FUNDO -->
 <p align="center">
-<img width="1200" height="429" alt="copper-ridge" src="https://github.com/user-attachments/assets/fbea5819-635a-48db-87f8-15c02e8d9d72" />
+<img width="1200" height="675" alt="37d20b1c7c7dcb588ca17e0285a0457f" src="https://github.com/user-attachments/assets/93d0073e-d5d2-493e-b692-e9a58050fc86" />
 </p>
 
 <!-- APRESENTAÇÃO -->
